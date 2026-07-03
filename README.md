@@ -25,7 +25,7 @@
 # 📸 Preview
 
 <p align="center">
-  <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/6612228a-6ccd-4871-a756-7393befa18e6" />
+  <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/db58514c-7d1b-43b5-9a3a-ea6a4d58c57f" />
 </p>
 
 ---
