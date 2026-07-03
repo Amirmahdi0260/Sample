@@ -172,9 +172,10 @@ The project follows the **Onion Architecture** pattern to keep the application m
 BlogManagementSystem
 │
 ├── XBLog.Web
+├── XBLog.Infrastructure
 ├── XBLog.Application
-├── XBLog.Domain
-└── XBLog.Infrastructure
+└── XBLog.Domain
+
 ```
 
 ---
