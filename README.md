@@ -28,7 +28,7 @@ Blog Management System is a portfolio project developed with **ASP.NET Core MVC*
 
 The application allows administrators to create and manage blog articles while authenticated users can interact with published content by posting comments.
 
-This project demonstrates modern software architecture, clean code principles, authentication, validation, and database-driven web application development.
+This project was developed as a portfolio application to demonstrate practical experience in ASP.NET Core MVC, Onion Architecture, Entity Framework Core, Cookie Authentication, and modern software development practices.
 
 ---
 
