@@ -22,14 +22,6 @@
 
 ---
 
-# 📸 Preview
-
-<p align="center">
-  <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/5fa1e94e-31f0-4925-a261-0ea757444e10" />
-</p>
-
----
-
 # 📖 Overview
 
 Blog Management System is a portfolio project developed with **ASP.NET Core MVC** using **Onion Architecture**.
@@ -62,7 +54,7 @@ This project demonstrates modern software architecture, clean code principles, a
 The project follows the **Onion Architecture** pattern to keep the application maintainable and scalable.
 
 <p align="center">
-  <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/1d82a74e-e5a9-4688-9d2d-1aab03ec19e3" />
+ <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/5fa1e94e-31f0-4925-a261-0ea757444e10" />
 </p>
 
 ### Project Layers
