@@ -62,7 +62,7 @@ This project demonstrates modern software architecture, clean code principles, a
 The project follows the **Onion Architecture** pattern to keep the application maintainable and scalable.
 
 <p align="center">
-  <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/257c0c53-950f-4cc1-97bb-b8eb19b337ba" />
+  <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/1d82a74e-e5a9-4688-9d2d-1aab03ec19e3" />
 </p>
 
 ### Project Layers
