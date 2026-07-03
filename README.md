@@ -95,7 +95,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## 📄 Blog Details
 
 <p align="center">
-  
+  <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/72d81ce7-ed29-4826-89ec-b9719e498762" />
 </p>
 
 ---
