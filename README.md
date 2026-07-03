@@ -1,6 +1,6 @@
 <p align="center">
   <!-- <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/115d4586-dd24-4fc4-a4ca-2204c576a845" /> -->
-  <img width="1366" height="2160" alt="Image" src="https://github.com/user-attachments/assets/e93e1fcd-7028-4262-90f4-81ecf469d4bc" />
+  <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/1ba79286-cbf9-40d6-8c17-5ef6700cc171" />
 </p>
 
 <h1 align="center">Blog Management System</h1>
