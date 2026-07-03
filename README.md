@@ -103,7 +103,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## 🔑 Login
 
 <p align="center">
- 
+ <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/6c7672c2-95ee-4a40-b772-aaa4064faeb2" />
 </p>
 
 ---
@@ -111,7 +111,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## 📝 Register
 
 <p align="center">
- 
+ <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/3cd98442-a563-4c05-8a64-bbab2ae191e2" />
 </p>
 
 ---
@@ -119,7 +119,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## 💬 Comments
 
 <p align="center">
-  
+  <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/884cd8e8-2b46-4cc1-a113-e6984b31800d" />
 </p>
 
 ---
@@ -127,7 +127,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## ⚙️ Admin Dashboard
 
 <p align="center">
-  
+  <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/cdc97124-1131-4c9a-b55f-843e4c41de74" />
 </p>
 
 ---
@@ -135,7 +135,8 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## ✍️ Create Article
 
 <p align="center">
-  
+  <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/53b18509-b2fb-40c2-98cd-4ca83bfb734f" />
+
 </p>
 
 ---
@@ -143,7 +144,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## 📂 Category Management
 
 <p align="center">
-  
+  <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/59bfbd14-16bf-46ad-ac3e-fb50e9ae16fd" />
 </p>
 
 ---
@@ -239,4 +240,4 @@ dotnet run
 
 # 📄 License
 
-This project was created for educational and portfolio purposes.
+This project is available under the MIT License.
