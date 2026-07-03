@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/115d4586-dd24-4fc4-a4ca-2204c576a845" />
+  <img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/115d4586-dd24-4fc4-a4ca-2204c576a845" />
 </p>
 
 <h1 align="center">Blog Management System</h1>
