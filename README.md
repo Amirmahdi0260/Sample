@@ -98,7 +98,7 @@ dotnet run
 > Add screenshots of:
 >
 > - Home Page
-> - <img width="1200" height="900" alt="Microsoft" src="https://github.com/user-attachments/assets/8b7e195b-224a-4481-b6f6-6db0ca0d0696" />
+> - <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/c706c800-75eb-4e51-86f7-c67f2c577df0" />
 
 > - Blog Details
 > - Login Page
