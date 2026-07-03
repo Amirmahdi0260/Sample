@@ -66,6 +66,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 
 - **Application**
   - Services
+  - Contracts
   - DTOs
   - Business Logic
 
@@ -154,8 +155,9 @@ The project follows the **Onion Architecture** pattern to keep the application m
 - ASP.NET Core MVC
 - C#
 - Entity Framework Core
-- SQL Server
+- Microsoft SQL Server
 - Cookie Authentication
+- Onion Architecture
 - FluentValidation
 - Bootstrap 5
 - HTML5
@@ -169,10 +171,10 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ```text
 BlogManagementSystem
 │
-├── Blog.Web
-├── Blog.Application
-├── Blog.Domain
-└── Blog.Infrastructure
+├── XBLog.Web
+├── XBLog.Application
+├── XBLog.Domain
+└── XBLog.Infrastructure
 ```
 
 ---
