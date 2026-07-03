@@ -87,7 +87,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## 🏠 Home Page
 
 <p align="center">
-  <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/e915007b-2cd9-4573-9bd0-261b6d8716bd" />
+ <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/35cb3e50-95eb-4691-a6ab-06cb1ed1c4be" />
 </p>
 
 ---
