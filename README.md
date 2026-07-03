@@ -1,7 +1,8 @@
 <p align="center">
   <!-- <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/115d4586-dd24-4fc4-a4ca-2204c576a845" /> -->
-  <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/86bbd31d-7be3-4ca9-b202-3071d8a59cf8" />
+  <img width="900" height="400" alt="Untitled-1" src="https://github.com/user-attachments/assets/10420a33-f2ba-4c68-95b2-5f75651515ab" />
 </p>
+
 
 <h1 align="center">Blog Management System</h1>
 
