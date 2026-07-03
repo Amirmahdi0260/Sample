@@ -1,8 +1,10 @@
 <p align="center">
-  <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/115d4586-dd24-4fc4-a4ca-2204c576a845" />
+  <!-- <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/115d4586-dd24-4fc4-a4ca-2204c576a845" /> -->
+  https://github.com/user-attachments/assets/05b61fb1-0b6e-479b-9885-bea2db59c02f
 </p>
 
 <h1 align="center">Blog Management System</h1>
+
 
 <p align="center">
   A modern blog management system built with <b>ASP.NET Core MVC</b> following the <b>Onion Architecture</b> principles.
