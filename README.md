@@ -23,7 +23,7 @@
 # 📸 Preview
 
 <p align="center">
-  <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/6612228a-6ccd-4871-a756-7393befa18e6" />
+  <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/6612228a-6ccd-4871-a756-7393befa18e6" />
 </p>
 
 ---
