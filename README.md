@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Blog Management System</h1>
+<h1 align="center">XBLog - Blog Management System</h1>
 
 
 <p align="center">
