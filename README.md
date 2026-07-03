@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" alt="Blog Management System Logo" width="180">
+  <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/115d4586-dd24-4fc4-a4ca-2204c576a845" />
 </p>
 
 <h1 align="center">Blog Management System</h1>
@@ -23,7 +23,7 @@
 # 📸 Preview
 
 <p align="center">
-  <img src="images/home.png" alt="Home Page">
+  <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/6612228a-6ccd-4871-a756-7393befa18e6" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ This project demonstrates modern software architecture, clean code principles, a
 The project follows the **Onion Architecture** pattern to keep the application maintainable and scalable.
 
 <p align="center">
-  <img src="images/architecture.png" width="700">
+  <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/257c0c53-950f-4cc1-97bb-b8eb19b337ba" />
 </p>
 
 ### Project Layers
@@ -93,7 +93,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## 🏠 Home Page
 
 <p align="center">
-  <img src="images/home.png">
+  <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/e915007b-2cd9-4573-9bd0-261b6d8716bd" />
 </p>
 
 ---
@@ -101,7 +101,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## 📄 Blog Details
 
 <p align="center">
-  <img src="images/post-details.png">
+  <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/869a134c-c235-4db2-b251-02a8a11459b7" />
 </p>
 
 ---
@@ -109,7 +109,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## 🔑 Login
 
 <p align="center">
-  <img src="images/login.png">
+  <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/c706c800-75eb-4e51-86f7-c67f2c577df0" />
 </p>
 
 ---
@@ -117,7 +117,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## 📝 Register
 
 <p align="center">
-  <img src="images/register.png">
+  <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/115d4586-dd24-4fc4-a4ca-2204c576a845" />
 </p>
 
 ---
@@ -125,7 +125,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## 💬 Comments
 
 <p align="center">
-  <img src="images/comments.png">
+  <img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/6612228a-6ccd-4871-a756-7393befa18e6" />
 </p>
 
 ---
@@ -133,7 +133,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## ⚙️ Admin Dashboard
 
 <p align="center">
-  <img src="images/dashboard.png">
+  <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/257c0c53-950f-4cc1-97bb-b8eb19b337ba" />
 </p>
 
 ---
@@ -141,7 +141,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## ✍️ Create Article
 
 <p align="center">
-  <img src="images/create-post.png">
+  <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/e915007b-2cd9-4573-9bd0-261b6d8716bd" />
 </p>
 
 ---
@@ -149,7 +149,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## 📂 Category Management
 
 <p align="center">
-  <img src="images/categories.png">
+  <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/869a134c-c235-4db2-b251-02a8a11459b7" />
 </p>
 
 ---
