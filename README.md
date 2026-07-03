@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/115d4586-dd24-4fc4-a4ca-2204c576a845" /> -->
-  <img width="900" height="400" alt="Untitled-1" src="https://github.com/user-attachments/assets/10420a33-f2ba-4c68-95b2-5f75651515ab" />
+ <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/9060d032-7794-445e-83a9-2c9dca26fc23" />
 </p>
 
 
@@ -55,7 +54,7 @@ This project demonstrates modern software architecture, clean code principles, a
 The project follows the **Onion Architecture** pattern to keep the application maintainable and scalable.
 
 <p align="center">
- <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/5fa1e94e-31f0-4925-a261-0ea757444e10" />
+ <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/7e0c0aa1-2a75-4eef-ac6b-e79e5d9edbed" />
 </p>
 
 ### Project Layers
@@ -88,7 +87,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## 🏠 Home Page
 
 <p align="center">
- <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/35cb3e50-95eb-4691-a6ab-06cb1ed1c4be" />
+ <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/6c5bc89d-2771-4b20-8b8d-015b6810fd80" />
 </p>
 
 ---
@@ -96,7 +95,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## 📄 Blog Details
 
 <p align="center">
-  <img width="900" height="400" alt="Image" src="https://github.com/user-attachments/assets/c50b138b-f36c-4ed9-8e09-520621d3950b" />
+  
 </p>
 
 ---
@@ -104,7 +103,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## 🔑 Login
 
 <p align="center">
-  <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/c706c800-75eb-4e51-86f7-c67f2c577df0" />
+ 
 </p>
 
 ---
@@ -112,7 +111,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## 📝 Register
 
 <p align="center">
-  <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/115d4586-dd24-4fc4-a4ca-2204c576a845" />
+ 
 </p>
 
 ---
@@ -120,7 +119,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## 💬 Comments
 
 <p align="center">
-  <img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/6612228a-6ccd-4871-a756-7393befa18e6" />
+  
 </p>
 
 ---
@@ -128,7 +127,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## ⚙️ Admin Dashboard
 
 <p align="center">
-  <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/257c0c53-950f-4cc1-97bb-b8eb19b337ba" />
+  
 </p>
 
 ---
@@ -136,7 +135,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## ✍️ Create Article
 
 <p align="center">
-  <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/e915007b-2cd9-4573-9bd0-261b6d8716bd" />
+  
 </p>
 
 ---
@@ -144,7 +143,7 @@ The project follows the **Onion Architecture** pattern to keep the application m
 ## 📂 Category Management
 
 <p align="center">
-  <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/869a134c-c235-4db2-b251-02a8a11459b7" />
+  
 </p>
 
 ---
